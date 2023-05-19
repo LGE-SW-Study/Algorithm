@@ -19,6 +19,11 @@
 | 1주차 (23.05.02 ~ 23.05.04) | [1417](https://www.acmicpc.net/problem/1417)   | 실버 5 |
 |                             | [10815](https://www.acmicpc.net/problem/10815) | 실버 5 |
 |                             | [11059](https://www.acmicpc.net/problem/11059) | 실버 5 |
+| 2주차 (23.05.22 ~ 23.05.26) | [14912](https://www.acmicpc.net/problem/14912) | 실버 5 |
+|                             | [25644](https://www.acmicpc.net/problem/25644) | 실버 5 |
+|                             | [10867](https://www.acmicpc.net/problem/10867) | 실버 5 |
+|                             | [23827](https://www.acmicpc.net/problem/23827) | 실버 4 |
+| 3주차 (23.05.29 ~ 23.06.02) | [25497](https://www.acmicpc.net/problem/25497) | 실버 5 |
 
 
 
