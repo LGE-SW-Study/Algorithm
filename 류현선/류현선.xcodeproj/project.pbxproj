@@ -31,6 +31,7 @@
 		0E5400382A04963F00B04D51 /* 10815.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 10815.c; sourceTree = "<group>"; };
 		0ECE12AC2A1B95E400C9690B /* 10867.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 10867.c; sourceTree = "<group>"; };
 		0ED18FE52A067701003CF6CF /* 11059.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 11059.c; sourceTree = "<group>"; };
+		0ED321152A24AEF800056AB3 /* 25497.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 25497.c; sourceTree = "<group>"; };
 		0EE6B8A12A18A0C8007F9AF8 /* 14912.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14912.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -65,6 +66,7 @@
 			isa = PBXGroup;
 			children = (
 				0E54002D2A04957900B04D51 /* main.c */,
+				0ED321152A24AEF800056AB3 /* 25497.c */,
 				0E0090342A1CF02200302275 /* 23827.c */,
 				0ECE12AC2A1B95E400C9690B /* 10867.c */,
 				0E18E7A82A1A2F7200A95239 /* 25644.c */,
