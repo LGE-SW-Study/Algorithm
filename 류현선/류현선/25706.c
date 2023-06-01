@@ -15,11 +15,7 @@ int main(void) {
     // 이거 문제다 문제
     int h[n];
     for (int i=0; i<n; i++) {
-        scanf("%d", &h[n]);
-    }
-    
-    for (int i=0; i<n; i++) {
-        printf("%d ", h[n]);
+        scanf("%d", &h[i]);
     }
     
     int dp[n];
@@ -31,9 +27,7 @@ int main(void) {
             dp[j] += dp[j+1];
         } else {
             if (j + h[j] + 1 < n) {
-                printf("%d %d\n", j, h[j]);
-                
-                //dp[j] += dp[j + h[j] + 1];
+                dp[j] += dp[j + h[j] + 1];
             }
         }
     }
