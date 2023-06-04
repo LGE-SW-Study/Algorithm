@@ -18,4 +18,8 @@ int main(){
             printf("%d ", i - 1000);
     }
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 7ff1c3661aaba94f5f7b6f1157ed851ff65c9280

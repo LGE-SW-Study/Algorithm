@@ -24,6 +24,9 @@
 |                             | [10867](https://www.acmicpc.net/problem/10867) | 실버 5 |
 |                             | [23827](https://www.acmicpc.net/problem/23827) | 실버 4 |
 | 3주차 (23.05.29 ~ 23.06.02) | [25497](https://www.acmicpc.net/problem/25497) | 실버 5 |
+|                             | [25706](https://www.acmicpc.net/problem/25706) | 실버 4 |
+|                             | [1049](https://www.acmicpc.net/problem/1049)   | 실버 4 |
+|                             | [2740](https://www.acmicpc.net/problem/2740)   | 실버 5 |
 
 
 
