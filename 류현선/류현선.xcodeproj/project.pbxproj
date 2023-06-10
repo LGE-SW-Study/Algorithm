@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0E54002E2A04957900B04D51 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 0E54002D2A04957900B04D51 /* main.c */; };
+		0EFA5BB22A34327100E969C7 /* 2485.c in Sources */ = {isa = PBXBuildFile; fileRef = 0EFA5BB12A34327100E969C7 /* 2485.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -38,6 +39,7 @@
 		0EE6B8A12A18A0C8007F9AF8 /* 14912.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14912.c; sourceTree = "<group>"; };
 		0EF0C4972A2F5CEE00638E67 /* 1388.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1388.c; sourceTree = "<group>"; };
 		0EF9B1092A2AC17B0071050B /* 2740.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2740.c; sourceTree = "<group>"; };
+		0EFA5BB12A34327100E969C7 /* 2485.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2485.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 			isa = PBXGroup;
 			children = (
 				0E54002D2A04957900B04D51 /* main.c */,
+				0EFA5BB12A34327100E969C7 /* 2485.c */,
 				0E2314EA2A320446009EBF46 /* 2776.c */,
 				0EF0C4972A2F5CEE00638E67 /* 1388.c */,
 				0EF9B1092A2AC17B0071050B /* 2740.c */,
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0EFA5BB22A34327100E969C7 /* 2485.c in Sources */,
 				0E54002E2A04957900B04D51 /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
