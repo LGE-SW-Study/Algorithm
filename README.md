@@ -31,6 +31,11 @@
 |                             | [2777](https://www.acmicpc.net/problem/2776)   | 실버 4 |
 |                             | [2485](https://www.acmicpc.net/problem/2485)   | 실버 4 |
 |                             | [1544](https://www.acmicpc.net/problem/1544)   | 실버 4 |
+| 5주차 (23.06.05 ~ 23.06.09) | [1026](https://www.acmicpc.net/problem/1026)   | 실버 4 |
+|                             | [1158](https://www.acmicpc.net/problem/1158)   | 실버 4 |
+|                             | [1302](https://www.acmicpc.net/problem/1302)   | 실버 4 |
+|                             | [1966](https://www.acmicpc.net/problem/1966)   | 실버 3 |
+
 
 
 
