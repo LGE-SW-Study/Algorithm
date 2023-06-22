@@ -24,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		0E0090342A1CF02200302275 /* 23827.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 23827.c; sourceTree = "<group>"; };
+		0E100A092A41DE7600619EF1 /* 1966.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1966.c; sourceTree = "<group>"; };
 		0E18E7A82A1A2F7200A95239 /* 25644.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 25644.c; sourceTree = "<group>"; };
 		0E2314EA2A320446009EBF46 /* 2776.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2776.c; sourceTree = "<group>"; };
 		0E4F72AB2A278394001062EB /* 25706.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 25706.c; sourceTree = "<group>"; };
@@ -36,6 +37,9 @@
 		0ED18B042A28C3BD001D20B8 /* 1049.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1049.c; sourceTree = "<group>"; };
 		0ED18FE52A067701003CF6CF /* 11059.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 11059.c; sourceTree = "<group>"; };
 		0ED321152A24AEF800056AB3 /* 25497.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 25497.c; sourceTree = "<group>"; };
+		0ED63A982A39EF7D002D7782 /* 1026.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1026.c; sourceTree = "<group>"; };
+		0EE0CED52A3EECA4009AAF48 /* 1158.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1158.c; sourceTree = "<group>"; };
+		0EE0CED72A3F0B6C009AAF48 /* 1302.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1302.c; sourceTree = "<group>"; };
 		0EE6B8A12A18A0C8007F9AF8 /* 14912.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 14912.c; sourceTree = "<group>"; };
 		0EF0C4972A2F5CEE00638E67 /* 1388.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1388.c; sourceTree = "<group>"; };
 		0EF9B1092A2AC17B0071050B /* 2740.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 2740.c; sourceTree = "<group>"; };
@@ -73,6 +77,10 @@
 			isa = PBXGroup;
 			children = (
 				0E54002D2A04957900B04D51 /* main.c */,
+				0E100A092A41DE7600619EF1 /* 1966.c */,
+				0EE0CED72A3F0B6C009AAF48 /* 1302.c */,
+				0EE0CED52A3EECA4009AAF48 /* 1158.c */,
+				0ED63A982A39EF7D002D7782 /* 1026.c */,
 				0E9AB8492A34679B0022F9FF /* 1544.c */,
 				0EFA5BB12A34327100E969C7 /* 2485.c */,
 				0E2314EA2A320446009EBF46 /* 2776.c */,
